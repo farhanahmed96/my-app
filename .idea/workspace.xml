@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16141058-5b25-4c55-a3db-059ff15ac84a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1pFTUjj1KjLPk3zCwz5GOrTPTyk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16141058-5b25-4c55-a3db-059ff15ac84a" name="Default Changelist" comment="" />
+      <created>1614777859965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614777859965</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-7" y="0" width="686" height="867" key="AVDManager" timestamp="1630072412765">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="-7" y="0" width="686" height="867" key="AVDManager/0.0.1440.860@0.0.1440.860" timestamp="1630072412765" />
+    <state x="194" y="11" key="SettingsEditor" timestamp="1629805839482">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="194" y="11" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1629805839482" />
+  </component>
+</project>
